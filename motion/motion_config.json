@@ -1,0 +1,9 @@
+{
+  "default_step_distance": 0.125,
+  "default_speed": 0.5,
+  "postures": {
+    "init": "StandInit",
+    "sit": "Sit",
+    "crouch": "Crouch"
+  }
+}

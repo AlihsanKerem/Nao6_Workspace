@@ -1,0 +1,13 @@
+{
+  "mode": "simulation",
+  "environments": {
+    "simulation": {
+      "ip": "127.0.0.1",
+      "port": 9559
+    },
+    "real": {
+      "ip": "nao.local",
+      "port": 9559
+    }
+  }
+}
